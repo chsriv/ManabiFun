@@ -1,0 +1,256 @@
+topic,question,option_a,option_b,option_c,option_d,correct_answer,difficulty
+grammar,"Which is correct?","I are happy","I am happy","I is happy","I be happy",B,easy
+grammar,"Choose the plural form of 'child':","childs","children","childes","child",B,medium
+grammar,"What is the past tense of 'run'?","runned","ran","run","running",B,easy
+grammar,"Which sentence is correct?","She don't like pizza","She doesn't like pizza","She not like pizza","She no like pizza",B,easy
+grammar,"Choose the correct form: 'There ___ many books'","is","are","was","be",B,easy
+grammar,"What is the present tense of 'went'?","go","goes","going","gone",A,medium
+grammar,"Which is correct?","Me and him are friends","Him and me are friends","He and I are friends","I and he are friends",C,medium
+grammar,"Choose the correct pronoun: 'Give the book to ___'","I","me","myself","mine",B,easy
+grammar,"What is the comparative form of 'good'?","gooder","more good","better","best",C,medium
+grammar,"Which sentence uses correct grammar?","I have ate lunch","I have eaten lunch","I has eaten lunch","I eaten lunch",B,medium
+grammar,"Choose the correct form: 'She ___ to school every day'","go","goes","going","gone",B,easy
+grammar,"What is the superlative form of 'tall'?","taller","more tall","tallest","most tall",C,medium
+grammar,"Which is correct?","I can't hardly see","I can hardly see","I hardly can't see","I can't hardly not see",B,hard
+grammar,"Choose the correct form: 'If I ___ you, I would study harder'","am","was","were","be",C,hard
+grammar,"What is the past participle of 'break'?","breaked","broke","broken","breaking",C,medium
+grammar,"Which sentence is correct?","Each of the students have a book","Each of the students has a book","Each of the student have a book","Each of the student has a book",B,medium
+grammar,"Choose the correct form: 'Neither Tom nor Jerry ___ here'","is","are","was","were",A,hard
+grammar,"What is the correct order?","Big red beautiful car","Beautiful big red car","Red big beautiful car","Beautiful red big car",B,medium
+grammar,"Which is correct?","I wish I was taller","I wish I were taller","I wish I am taller","I wish I be taller",B,hard
+grammar,"Choose the correct form: 'The book ___ on the table'","is laying","is lying","are laying","are lying",B,medium
+grammar,"What is the plural of 'mouse'?","mouses","mouse","mice","mices",C,easy
+grammar,"Which sentence is correct?","I seen the movie","I have saw the movie","I saw the movie","I have see the movie",C,easy
+grammar,"Choose the correct form: 'She is ___ than her sister'","more smart","smarter","most smart","smartest",B,easy
+grammar,"What is the past tense of 'bring'?","brang","bringed","brought","brung",C,medium
+grammar,"Which is correct?","Who's book is this?","Whose book is this?","Who book is this?","Whos book is this?",B,medium
+grammar,"Choose the correct form: 'I have ___ finished my homework'","all ready","already","all ways","always",B,easy
+grammar,"What is the correct question form?","Where you are going?","Where are you going?","Where going you are?","You are going where?",B,easy
+grammar,"Which sentence uses correct grammar?","Between you and I","Between you and me","Between I and you","Between me and you",B,medium
+grammar,"Choose the correct form: 'She ___ playing piano for 5 years'","is","has been","have been","was",B,medium
+grammar,"What is the correct negative form of 'I am happy'?","I am not happy","I not am happy","I amn't happy","I'm not happy",D,easy
+grammar,"Which is correct?","I could of done it","I could have done it","I could off done it","I could've of done it",B,hard
+grammar,"Choose the correct form: 'The dog wagged ___ tail'","it's","its","its'","it",B,medium
+grammar,"What is the correct comparison?","This is more better","This is much better","This is most better","This is more good",B,medium
+grammar,"Which sentence is correct?","I don't have no money","I don't have any money","I not have no money","I haven't no money",B,medium
+grammar,"Choose the correct form: 'She speaks English ___'","good","well","better","best",B,easy
+grammar,"What is the correct form of 'to be' with 'you'?","You is","You am","You are","You be",C,easy
+grammar,"Which is correct?","I and my friend went","My friend and I went","Me and my friend went","My friend and me went",B,medium
+grammar,"Choose the correct form: 'There are ___ apples'","a lot of","alot of","lots","much",A,easy
+grammar,"What is the correct tag question for 'She is coming'?","isn't she?","doesn't she?","wasn't she?","hasn't she?",A,medium
+grammar,"Which sentence is correct?","I have less books than you","I have fewer books than you","I have lesser books than you","I have few books than you",B,hard
+grammar,"Choose the correct form: 'I ___ like to go swimming'","would","will","should","could",A,easy
+grammar,"What is the correct form?","He don't know","He doesn't know","He not know","He no know",B,easy
+grammar,"Which is correct?","Very unique","Most unique","More unique","Quite unique",D,hard
+grammar,"Choose the correct form: 'I wish I ___ fly'","can","could","will","would",B,medium
+grammar,"What is the correct preposition?","I am good in English","I am good at English","I am good on English","I am good with English",B,medium
+grammar,"Which sentence uses correct grammar?","I have been to London last year","I went to London last year","I have went to London last year","I was to London last year",B,medium
+grammar,"Choose the correct form: 'She made me ___ it'","to do","do","doing","done",B,hard
+grammar,"What is the correct auxiliary verb?","Do you can swim?","Can you swim?","Are you can swim?","You can swim?",B,easy
+grammar,"Which is correct?","I'm used to wake up early","I'm used to waking up early","I used to wake up early","I use to wake up early",B,hard
+grammar,"Choose the correct form: 'The house ___ last year'","built","was built","has built","is built",B,medium
+articles,"Fill in the blank: '___ apple is red'","A","An","The","No article",B,easy
+articles,"Choose the correct article: 'I saw ___ elephant at the zoo'","a","an","the","no article",B,easy
+articles,"Fill in: 'She is ___ honest person'","a","an","the","no article",B,easy
+articles,"Choose the correct article: 'I need ___ umbrella'","a","an","the","no article",B,easy
+articles,"Fill in: '___ sun is very bright today'","A","An","The","No article",C,easy
+articles,"Choose the correct article: 'He is ___ university student'","a","an","the","no article",A,medium
+articles,"Fill in: 'I have ___ hour to complete this'","a","an","the","no article",B,medium
+articles,"Choose the correct article: '___ book you gave me was interesting'","A","An","The","No article",C,easy
+articles,"Fill in: 'She wants to be ___ doctor'","a","an","the","no article",A,easy
+articles,"Choose the correct article: 'I live in ___ United States'","a","an","the","no article",C,medium
+articles,"Fill in: '___ honesty is important'","A","An","The","No article",D,medium
+articles,"Choose the correct article: 'Can you play ___ piano?'","a","an","the","no article",C,medium
+articles,"Fill in: 'I eat ___ apple every day'","a","an","the","no article",B,easy
+articles,"Choose the correct article: '___ European countries are beautiful'","A","An","The","No article",D,medium
+articles,"Fill in: 'She is ___ only child in the family'","a","an","the","no article",C,medium
+articles,"Choose the correct article: 'I go to ___ school every morning'","a","an","the","no article",D,easy
+articles,"Fill in: 'He bought ___ new car yesterday'","a","an","the","no article",A,easy
+articles,"Choose the correct article: '___ moon is full tonight'","A","An","The","No article",C,easy
+articles,"Fill in: 'She is studying to become ___ engineer'","a","an","the","no article",B,easy
+articles,"Choose the correct article: 'I need ___ information about this topic'","a","an","the","no article",D,medium
+articles,"Fill in: '___ dogs are loyal animals'","A","An","The","No article",D,medium
+articles,"Choose the correct article: 'He lives on ___ Oak Street'","a","an","the","no article",D,medium
+articles,"Fill in: 'She plays ___ guitar beautifully'","a","an","the","no article",C,medium
+articles,"Choose the correct article: 'I had ___ interesting dream last night'","a","an","the","no article",B,easy
+articles,"Fill in: '___ children love to play games'","A","An","The","No article",D,easy
+articles,"Choose the correct article: 'He is ___ honest man'","a","an","the","no article",B,easy
+articles,"Fill in: 'I saw ___ movie last weekend'","a","an","the","no article",A,easy
+articles,"Choose the correct article: '___ water is essential for life'","A","An","The","No article",D,medium
+articles,"Fill in: 'She has ___ beautiful voice'","a","an","the","no article",A,easy
+articles,"Choose the correct article: 'I'm going to ___ library to study'","a","an","the","no article",C,easy
+articles,"Fill in: '___ exercise is good for health'","A","An","The","No article",D,medium
+articles,"Choose the correct article: 'He ate ___ orange for breakfast'","a","an","the","no article",B,easy
+articles,"Fill in: 'She is ___ best student in class'","a","an","the","no article",C,medium
+articles,"Choose the correct article: 'I love ___ music'","a","an","the","no article",D,easy
+articles,"Fill in: 'He works at ___ hospital downtown'","a","an","the","no article",C,medium
+articles,"Choose the correct article: '___ English is a global language'","A","An","The","No article",D,medium
+articles,"Fill in: 'She bought ___ expensive dress'","a","an","the","no article",B,easy
+articles,"Choose the correct article: 'I have ___ appointment at 3 PM'","a","an","the","no article",B,easy
+articles,"Fill in: '___ breakfast is ready'","A","An","The","No article",C,easy
+articles,"Choose the correct article: 'He is learning to play ___ violin'","a","an","the","no article",C,medium
+articles,"Fill in: 'I need to buy ___ milk from the store'","a","an","the","no article",D,medium
+articles,"Choose the correct article: '___ cats are independent pets'","A","An","The","No article",D,easy
+articles,"Fill in: 'She received ___ unexpected gift'","a","an","the","no article",B,easy
+articles,"Choose the correct article: 'I'm reading ___ book about history'","a","an","the","no article",A,easy
+articles,"Fill in: '___ happiness comes from within'","A","An","The","No article",D,medium
+articles,"Choose the correct article: 'He drives ___ blue car'","a","an","the","no article",A,easy
+articles,"Fill in: 'She is ___ teacher at the local school'","a","an","the","no article",A,easy
+articles,"Choose the correct article: 'I saw ___ eagle flying overhead'","a","an","the","no article",B,easy
+articles,"Fill in: '___ time flies when you're having fun'","A","An","The","No article",D,medium
+articles,"Choose the correct article: 'He is ___ unique person'","a","an","the","no article",A,medium
+articles,"Fill in: 'She lives in ___ house on the hill'","a","an","the","no article",C,easy
+synonyms,"What is a synonym for 'happy'?","sad","angry","joyful","tired",C,easy
+synonyms,"Choose a synonym for 'big':","small","large","tiny","little",B,easy
+synonyms,"What word means the same as 'smart'?","dumb","clever","slow","lazy",B,easy
+synonyms,"Choose a synonym for 'fast':","slow","quick","late","heavy",B,easy
+synonyms,"What is a synonym for 'beautiful'?","ugly","pretty","bad","dark",B,easy
+synonyms,"Choose a synonym for 'angry':","happy","mad","calm","quiet",B,easy
+synonyms,"What word means the same as 'small'?","huge","tiny","big","tall",B,easy
+synonyms,"Choose a synonym for 'funny':","sad","serious","amusing","boring",C,easy
+synonyms,"What is a synonym for 'brave'?","scared","fearful","courageous","weak",C,medium
+synonyms,"Choose a synonym for 'tired':","energetic","exhausted","happy","excited",B,easy
+synonyms,"What word means the same as 'quiet'?","loud","noisy","silent","busy",C,easy
+synonyms,"Choose a synonym for 'old':","new","young","ancient","fresh",C,medium
+synonyms,"What is a synonym for 'difficult'?","easy","simple","hard","light",C,easy
+synonyms,"Choose a synonym for 'talk':","listen","speak","hear","see",B,easy
+synonyms,"What word means the same as 'start'?","end","finish","begin","stop",C,easy
+synonyms,"Choose a synonym for 'rich':","poor","wealthy","broke","cheap",B,easy
+synonyms,"What is a synonym for 'cold'?","hot","warm","freezing","sunny",C,easy
+synonyms,"Choose a synonym for 'sad':","happy","joyful","unhappy","excited",C,easy
+synonyms,"What word means the same as 'help'?","hurt","assist","ignore","break",B,easy
+synonyms,"Choose a synonym for 'nice':","mean","rude","kind","bad",C,easy
+synonyms,"What is a synonym for 'loud'?","quiet","soft","noisy","calm",C,easy
+synonyms,"Choose a synonym for 'friend':","enemy","stranger","buddy","foe",C,easy
+synonyms,"What word means the same as 'clean'?","dirty","messy","spotless","muddy",C,easy
+synonyms,"Choose a synonym for 'scary':","funny","frightening","happy","calm",B,easy
+synonyms,"What is a synonym for 'strong'?","weak","fragile","powerful","soft",C,easy
+synonyms,"Choose a synonym for 'thin':","fat","thick","skinny","heavy",C,easy
+synonyms,"What word means the same as 'silly'?","serious","smart","foolish","wise",C,easy
+synonyms,"Choose a synonym for 'hungry':","full","satisfied","starving","thirsty",C,easy
+synonyms,"What is a synonym for 'empty'?","full","packed","vacant","crowded",C,medium
+synonyms,"Choose a synonym for 'destroy':","build","create","ruin","fix",C,medium
+synonyms,"What word means the same as 'hurry'?","wait","delay","rush","stop",C,easy
+synonyms,"Choose a synonym for 'gift':","debt","bill","present","payment",C,easy
+synonyms,"What is a synonym for 'sick'?","healthy","well","ill","strong",C,easy
+synonyms,"Choose a synonym for 'choose':","ignore","reject","select","avoid",C,easy
+synonyms,"What word means the same as 'fix'?","break","damage","repair","destroy",C,easy
+synonyms,"Choose a synonym for 'calm':","excited","angry","peaceful","loud",C,easy
+synonyms,"What is a synonym for 'dark'?","bright","light","dim","sunny",C,easy
+synonyms,"Choose a synonym for 'wet':","dry","dusty","damp","hot",C,easy
+synonyms,"What word means the same as 'push'?","pull","drag","shove","lift",C,easy
+synonyms,"Choose a synonym for 'answer':","question","ask","reply","wonder",C,easy
+synonyms,"What is a synonym for 'grab'?","drop","release","seize","throw",C,medium
+synonyms,"Choose a synonym for 'shut':","open","unlock","close","start",C,easy
+synonyms,"What word means the same as 'kind'?","mean","cruel","gentle","harsh",C,easy
+synonyms,"Choose a synonym for 'jump':","sit","fall","leap","crawl",C,easy
+synonyms,"What is a synonym for 'bright'?","dark","dim","shiny","dull",C,easy
+synonyms,"Choose a synonym for 'walk':","run","fly","stroll","swim",C,easy
+synonyms,"What word means the same as 'house'?","car","tree","home","school",C,easy
+synonyms,"Choose a synonym for 'pretty':","ugly","plain","lovely","dirty",C,easy
+synonyms,"What is a synonym for 'look'?","ignore","avoid","see","miss",C,easy
+synonyms,"Choose a synonym for 'break':","fix","mend","smash","build",C,easy
+synonyms,"What word means the same as 'end'?","start","begin","finish","continue",C,easy
+antonyms,"What is the opposite of 'hot'?","warm","cold","cool","mild",B,easy
+antonyms,"Choose the antonym for 'big':","huge","large","small","wide",C,easy
+antonyms,"What is the opposite of 'happy'?","joyful","glad","sad","excited",C,easy
+antonyms,"Choose the antonym for 'up':","high","tall","down","over",C,easy
+antonyms,"What is the opposite of 'fast'?","quick","rapid","slow","speedy",C,easy
+antonyms,"Choose the antonym for 'good':","great","nice","bad","fine",C,easy
+antonyms,"What is the opposite of 'light'?","bright","white","dark","clear",C,easy
+antonyms,"Choose the antonym for 'old':","ancient","aged","young","elderly",C,easy
+antonyms,"What is the opposite of 'soft'?","smooth","gentle","hard","quiet",C,easy
+antonyms,"Choose the antonym for 'wet':","damp","moist","dry","soaked",C,easy
+antonyms,"What is the opposite of 'loud'?","noisy","booming","quiet","strong",C,easy
+antonyms,"Choose the antonym for 'rich':","wealthy","expensive","poor","costly",C,easy
+antonyms,"What is the opposite of 'empty'?","vacant","hollow","full","bare",C,easy
+antonyms,"Choose the antonym for 'clean':","spotless","neat","dirty","tidy",C,easy
+antonyms,"What is the opposite of 'wide'?","broad","fat","narrow","thick",C,easy
+antonyms,"Choose the antonym for 'strong':","powerful","mighty","weak","tough",C,easy
+antonyms,"What is the opposite of 'begin'?","start","commence","end","open",C,easy
+antonyms,"Choose the antonym for 'smooth':","soft","flat","rough","even",C,easy
+antonyms,"What is the opposite of 'thick'?","fat","wide","thin","heavy",C,easy
+antonyms,"Choose the antonym for 'inside':","within","indoor","outside","internal",C,easy
+antonyms,"What is the opposite of 'night'?","evening","dark","day","sunset",C,easy
+antonyms,"Choose the antonym for 'push':","shove","press","pull","move",C,easy
+antonyms,"What is the opposite of 'open'?","wide","free","closed","loose",C,easy
+antonyms,"Choose the antonym for 'love':","like","adore","hate","enjoy",C,easy
+antonyms,"What is the opposite of 'win'?","succeed","triumph","lose","gain",C,easy
+antonyms,"Choose the antonym for 'come':","arrive","approach","go","enter",C,easy
+antonyms,"What is the opposite of 'buy'?","purchase","get","sell","obtain",C,easy
+antonyms,"Choose the antonym for 'front':","forward","ahead","back","top",C,easy
+antonyms,"What is the opposite of 'always'?","often","usually","never","sometimes",C,easy
+antonyms,"Choose the antonym for 'remember':","recall","think","forget","know",C,easy
+antonyms,"What is the opposite of 'early'?","soon","quick","late","first",C,easy
+antonyms,"Choose the antonym for 'same':","equal","identical","different","similar",C,easy
+antonyms,"What is the opposite of 'true'?","real","correct","false","right",C,easy
+antonyms,"Choose the antonym for 'brave':","bold","fearless","cowardly","strong",C,medium
+antonyms,"What is the opposite of 'easy'?","simple","plain","difficult","clear",C,easy
+antonyms,"Choose the antonym for 'safe':","secure","protected","dangerous","guarded",C,easy
+antonyms,"What is the opposite of 'laugh'?","smile","giggle","cry","chuckle",C,easy
+antonyms,"Choose the antonym for 'friend':","buddy","pal","enemy","mate",C,easy
+antonyms,"What is the opposite of 'give'?","offer","provide","take","share",C,easy
+antonyms,"Choose the antonym for 'find':","discover","locate","lose","search",C,easy
+antonyms,"What is the opposite of 'together'?","united","joined","apart","combined",C,easy
+antonyms,"Choose the antonym for 'question':","ask","inquiry","answer","wonder",C,easy
+antonyms,"What is the opposite of 'first'?","initial","beginning","last","early",C,easy
+antonyms,"Choose the antonym for 'include':","contain","involve","exclude","cover",C,medium
+antonyms,"What is the opposite of 'accept'?","take","receive","reject","welcome",C,medium
+antonyms,"Choose the antonym for 'create':","make","build","destroy","form",C,medium
+antonyms,"What is the opposite of 'increase'?","grow","rise","decrease","expand",C,medium
+antonyms,"Choose the antonym for 'advance':","progress","move forward","retreat","improve",C,medium
+antonyms,"What is the opposite of 'entrance'?","entry","doorway","exit","gate",C,easy
+antonyms,"Choose the antonym for 'maximum':","highest","most","minimum","greatest",C,medium
+antonyms,"What is the opposite of 'artificial'?","fake","man-made","natural","synthetic",C,medium
+antonyms,"Choose the antonym for 'temporary':","short","brief","permanent","quick",C,medium
+sentences,"Which sentence is correct?","The dog run fast","The dog runs fast","The dog running fast","The dog ran fastly",B,easy
+sentences,"Choose the correct sentence:","I likes ice cream","I like ice cream","I liking ice cream","I liked ice cream always",B,easy
+sentences,"Which sentence is properly formed?","She goes to school everyday","She go to school everyday","She going to school everyday","She gone to school everyday",A,easy
+sentences,"Choose the correct sentence:","They was playing outside","They were playing outside","They is playing outside","They be playing outside",B,easy
+sentences,"Which sentence is correct?","I have a red big car","I have big red car","I have a big red car","I have red car big",C,medium
+sentences,"Choose the correct sentence:","Where you are going?","Where are you going?","Where going you are?","You are going where?",B,easy
+sentences,"Which sentence is properly formed?","I don't have no money","I don't have any money","I not have no money","I haven't no money",B,medium
+sentences,"Choose the correct sentence:","She can sings very well","She can sing very well","She can singing very well","She cans sing very well",B,easy
+sentences,"Which sentence is correct?","I seen the movie yesterday","I saw the movie yesterday","I have saw the movie yesterday","I see the movie yesterday",B,easy
+sentences,"Choose the correct sentence:","There is many books here","There are many books here","There be many books here","There was many books here",B,easy
+sentences,"Which sentence is properly formed?","I am going to the store for buy milk","I am going to the store to buy milk","I am going to the store for buying milk","I am going to the store buy milk",B,medium
+sentences,"Choose the correct sentence:","She is more taller than me","She is taller than me","She is most tall than me","She is more tall than me",B,medium
+sentences,"Which sentence is correct?","I have been living here since 5 years","I have been living here for 5 years","I have been living here from 5 years","I am living here since 5 years",B,medium
+sentences,"Choose the correct sentence:","If I was you, I would study harder","If I were you, I would study harder","If I am you, I would study harder","If I be you, I would study harder",B,hard
+sentences,"Which sentence is properly formed?","I am interesting in music","I am interested in music","I am interest in music","I interested in music",B,medium
+sentences,"Choose the correct sentence:","She made me to do it","She made me do it","She made me doing it","She made me done it",B,hard
+sentences,"Which sentence is correct?","I have much friends","I have many friends","I have a lot friends","I have lot of friends",B,easy
+sentences,"Choose the correct sentence:","I am agree with you","I agree with you","I am agreed with you","I agreeing with you",B,easy
+sentences,"Which sentence is properly formed?","I look forward to meet you","I look forward to meeting you","I look forward for meeting you","I look forward meet you",B,hard
+sentences,"Choose the correct sentence:","She is cooking since morning","She has been cooking since morning","She cooks since morning","She cooked since morning",B,medium
+sentences,"Which sentence is correct?","I want that you come early","I want you to come early","I want you come early","I want that you to come early",B,medium
+sentences,"Choose the correct sentence:","I am boring in this class","I am bored in this class","I boring in this class","I feel boring in this class",B,medium
+sentences,"Which sentence is properly formed?","I suggest you to take rest","I suggest that you take rest","I suggest you taking rest","I suggest you take rest",D,hard
+sentences,"Choose the correct sentence:","I have been to London last year","I went to London last year","I have went to London last year","I was to London last year",B,medium
+sentences,"Which sentence is correct?","I am used to wake up early","I am used to waking up early","I used to wake up early","I use to wake up early",B,hard
+sentences,"Choose the correct sentence:","She enjoys to read books","She enjoys reading books","She enjoys read books","She enjoys for reading books",B,medium
+sentences,"Which sentence is properly formed?","I am thinking to buy a car","I am thinking of buying a car","I am thinking for buying a car","I am thinking buy a car",B,medium
+sentences,"Choose the correct sentence:","I have finished to do my homework","I have finished doing my homework","I have finished do my homework","I have finished for doing my homework",B,medium
+sentences,"Which sentence is correct?","I am good in English","I am good at English","I am good on English","I am good with English",B,medium
+sentences,"Choose the correct sentence:","She insisted me to come","She insisted that I come","She insisted me coming","She insisted for me to come",B,hard
+sentences,"Which sentence is properly formed?","I am afraid from dogs","I am afraid of dogs","I am afraid with dogs","I am afraid for dogs",B,easy
+sentences,"Choose the correct sentence:","I prefer tea than coffee","I prefer tea to coffee","I prefer tea from coffee","I prefer tea over coffee",B,medium
+sentences,"Which sentence is correct?","I am married with her for 5 years","I have been married to her for 5 years","I am married to her since 5 years","I married with her for 5 years",B,hard
+sentences,"Choose the correct sentence:","I congratulated him for his success","I congratulated him on his success","I congratulated him with his success","I congratulated him about his success",B,medium
+sentences,"Which sentence is properly formed?","I am disappointed from you","I am disappointed in you","I am disappointed on you","I am disappointed at you",B,medium
+sentences,"Choose the correct sentence:","I am proud from my son","I am proud of my son","I am proud on my son","I am proud with my son",B,easy
+sentences,"Which sentence is correct?","I searched for my keys everywhere","I searched my keys everywhere","I searched after my keys everywhere","I searched about my keys everywhere",A,medium
+sentences,"Choose the correct sentence:","I am angry on you","I am angry with you","I am angry for you","I am angry about you",B,easy
+sentences,"Which sentence is properly formed?","I am satisfied from the results","I am satisfied with the results","I am satisfied on the results","I am satisfied about the results",B,medium
+sentences,"Choose the correct sentence:","I am worried for my exam","I am worried about my exam","I am worried on my exam","I am worried with my exam",B,easy
+sentences,"Which sentence is correct?","I am interested for learning Spanish","I am interested in learning Spanish","I am interested on learning Spanish","I am interested with learning Spanish",B,medium
+sentences,"Choose the correct sentence:","I am good in playing chess","I am good at playing chess","I am good on playing chess","I am good with playing chess",B,medium
+sentences,"Which sentence is properly formed?","I am tired from working","I am tired of working","I am tired on working","I am tired with working",B,medium
+sentences,"Choose the correct sentence:","I am excited for the trip","I am excited about the trip","I am excited on the trip","I am excited with the trip",B,easy
+sentences,"Which sentence is correct?","I am confused from the instructions","I am confused by the instructions","I am confused on the instructions","I am confused with the instructions",B,medium
+sentences,"Choose the correct sentence:","I am familiar to this place","I am familiar with this place","I am familiar on this place","I am familiar about this place",B,medium
+sentences,"Which sentence is properly formed?","I am grateful for your help","I am grateful with your help","I am grateful on your help","I am grateful about your help",A,easy
+sentences,"Choose the correct sentence:","I am responsible for this project","I am responsible on this project","I am responsible with this project","I am responsible about this project",A,easy
+sentences,"Which sentence is correct?","I am capable to do this job","I am capable of doing this job","I am capable for doing this job","I am capable with doing this job",B,medium
+sentences,"Choose the correct sentence:","I am fond from music","I am fond of music","I am fond on music","I am fond with music",B,easy
+sentences,"Which sentence is properly formed?","I am aware from the problem","I am aware of the problem","I am aware on the problem","I am aware with the problem",B,medium
